@@ -1,0 +1,32 @@
+NewsletterMarch 2020
+PROGRAM ANNOUNCEMENTS
+New! AI for Business Leaders Executive Program — Co-created with BMW
+We're pleased to announce the launch of our AI for Business Leaders Executive Program. In this program, you will gain foundational technical knowledge of Machine Learning and understand the relevant business applications of Artificial Intelligence across industries. The program consists of practical case studies, where you will learn what strategic questions to ask, and how to formulate proposals when evaluating opportunities. A final capstone project gives learners the opportunity to build an AI-backed strategic proposal that can be integrated into your own business. Learn more.
+
+AI for Business Leaders
+These upcoming webinars featuring AI thought leaders offer further insight into how you can position yourself to become the AI leader in your organization:
+
+Samantha Hwang — Principal at BMW I Ventures, on Investing in AI & Autonomous Driving
+Reserve your seat for Wednes‍day, Mar‍ch 1‍8, 1‍1 a‍m PS‍T.
+
+Alex Ermolaev — Director of AI at ChangeHealthcare, on AI in Healthcare
+Reserve your seat for Wedn‍esday, Ma‍rch 2‍5, 1‍1 a‍m P‍ST.
+
+Praful Krishna — CEO of Coseer on Implementing AI in Fortune 500 Companies
+Reserve your seat for Wednes‍day, Ap‍ril 1‍, 1‍1 a‍m P‍ST.
+
+NEW! Product Management Nanodegree
+In our recently launched Product Management Nanodegree program, learners will develop product management best practices, including product requirement documentation, product design, UX, business product strategies, pricing, sales models, and more. By the end of this program, you will gain the ability to break down and analyze data with a structured approach to gain insights, and then turn those data into product prioritization decisions, strategy decisions, or new product innovation ideas. Learn more.
+
+Product Manager Nanodegree
+PRODUCT ANNOUNCEMENTS
+Release News
+Announcing New Enterprise Management Console (EMC) Feature
+The new Bulk Enrollment Action History feature provides you an audit trail of key EMC actions thereby driving transparency on who initiated specific actions and their status’. This is a common requirement of having an Enterprise-Grade SaaS Product. Check it out!
+
+OUR LATEST INSIGHTS
+The Future of AI
+WEBINAR
+Sebastian Thrun on the Future of AI in Business
+An enlightening look at how AI is rapidly impacting corporations
+In the first interview in our AI for Business Leaders Webinar Series, Sebastian Thrun, founder of Udacity and leader of the Google Brain project for deep learning and natural language processing, shares why it is a strategic imperative to take advantage of AI technology today, and how to approach AI transformation in your business.
