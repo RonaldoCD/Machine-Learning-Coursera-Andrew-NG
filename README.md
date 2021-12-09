@@ -10,5 +10,5 @@ Variance](https://github.com/RonaldoCD/Machine-Learning-Coursera-Andrew-NG/tree/
 * Week 7: [Support Vector Machines](https://github.com/RonaldoCD/Machine-Learning-Coursera-Andrew-NG/tree/main/machine-learning-ex6)
 * Week 8: [K-means Clustering and Principal Component
 Analysis](https://github.com/RonaldoCD/Machine-Learning-Coursera-Andrew-NG/tree/main/machine-learning-ex7)
-* Week 8: [Anomaly Detection and Recommender
+* Week 9: [Anomaly Detection and Recommender
 Systems](https://github.com/RonaldoCD/Machine-Learning-Coursera-Andrew-NG/tree/main/machine-learning-ex8)
